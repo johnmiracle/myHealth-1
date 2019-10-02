@@ -1,0 +1,77 @@
+.bg-blue {
+    background-color: #e71989!important;
+}
+
+.navbar .navbar-nav li a {
+    color: #fff!important;
+}
+
+.navbar .navbar-nav li {
+    padding-left: 40px;
+}
+
+.navbar .navbar-nav li a:hover {
+    background-color: #c01473;
+    border-radius: 4px;
+}
+
+.navbar .navbar-nav li a {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+
+/* end of navbar section */
+
+
+/* footer section starts here */
+
+.bk-yellow {
+    background-color: rgb(9, 20, 46);
+    color: #fff;
+}
+
+.ft-pad {
+    padding-top: 80px;
+}
+
+.ul-main {
+    margin-left: 40px!important;
+}
+
+.ul-menu li {
+    list-style: none!important;
+    padding-bottom: 7px;
+    font-family: Nunito, sans-serif;
+}
+
+.ul-menu li a {
+    text-decoration: none!important;
+    /* color: #7b8088; */
+    color: #fff;
+}
+
+.ul-menu .active {
+    padding-bottom: 15px;
+    font-size: 18px!important;
+}
+
+.btn-submit {
+    background-color: #e71989!important
+}
+
+.ft-copy h2 {
+    font-size: 16px!important;
+    color: #fff;
+    font-family: Nunito, san-serif;
+    border-top: 1px solid rgb(77, 77, 77);
+    padding-top: 60px;
+}
+
+.ft-copy {
+    padding-bottom: 60px;
+    padding-top: 40px;
+}
+
+
+/* footer section ends here */
